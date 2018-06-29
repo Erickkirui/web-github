@@ -1,6 +1,9 @@
 .pixels{
-	background-color: #ff0000;
-	color: green;
+	font-style: italic;
+	color: blue;
+	font-variant: normal;
+	fo-size:25pxl;
+	border-style: solid;
 }
 p {
 	font-size: 24px;
@@ -13,4 +16,8 @@ ol{
 	font-size: 23px;
 	font-family: fantasy;
 	color: blue;
+}
+h1{
+	font-family: inherit;
+	text-align: center;
 }
